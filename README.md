@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratchaya0" alt="pratchaya0" /></a> </p>  
 <img  align="right"  alt="Coding"  width="350"  src="https://raw.githubusercontent.com/Pratchaya0/Pratchaya0/main/energy_cleansing_and_healing_spell.gif">
   
-- 💬 Ask me about **INFP, Anime, Bicycle, Peaceful place**  
+- 💬 About me **INFP, Anime, Bicycle, Peaceful place**  
   
 - 📫 How to reach me **pratchayaworks@gmail.com**  
   
