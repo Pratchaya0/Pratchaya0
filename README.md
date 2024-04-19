@@ -1,7 +1,7 @@
 
+
 <h1 align="center">Hi 👋, I'm Pratchaya Saenphoi</h1>  
-<h3 align="center">A passionate backend developer from Thailand</h3>  
-  
+<h3 align="center">A passionate Software developer from Thailand</h3>  
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=Pratchaya0&label=Profile%20views&color=0e75b6&style=flat" alt="Pratchayas1" />
@@ -11,8 +11,12 @@
 </p>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratchaya0" alt="pratchaya0" /></a> </p>  
-<img  align="right"  alt="Coding"  width="350"  src="https://raw.githubusercontent.com/Pratchaya0/Pratchaya0/main/energy_cleansing_and_healing_spell.gif">
-  
+<img  align="right"  alt="Coding"  width="400"  src="https://raw.githubusercontent.com/Pratchaya0/Pratchaya0/main/energy_cleansing_and_healing_spell.gif">
+
+ - 👀 I’m interested in **AR/VR,AI**
+ 
+- 🌱 I’m currently learning about **Cybersecurity,Blockchain**
+
 - 💬 About me **INFP, Anime, Bicycle, Peaceful place**  
   
 - 📫 How to reach me **pratchayaworks@gmail.com**  
