@@ -73,9 +73,6 @@
     </a>
 </p>     
 ### :fire: My Stats : ###
-
-[![Pratchaya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Pratchaya0&&theme=xcode)](https://github.com/Pratchaya0)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratchaya0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pratchaya0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratchaya0&show_icons=true&locale=en&theme=tokyonight" alt="Pratchaya0" /></p>
