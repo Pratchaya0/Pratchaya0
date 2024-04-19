@@ -72,7 +72,14 @@
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
     </a>
 </p>     
+### :fire: My Stats :
+[![Pratchaya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Pratchaya0&&theme=xcode)](https://github.com/Pratchaya0)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratchaya0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pratchaya0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratchaya0&show_icons=true&locale=en&theme=tokyonight" alt="Pratchaya0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratchaya0&&theme=tokyonight" alt="Pratchaya0" /></p>
 
 <!--
 **Pratchaya0/Pratchaya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
