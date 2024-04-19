@@ -72,7 +72,7 @@
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
     </a>
 </p>     
-### :fire: My Stats : ###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratchaya0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pratchaya0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratchaya0&show_icons=true&locale=en&theme=tokyonight" alt="Pratchaya0" /></p>
