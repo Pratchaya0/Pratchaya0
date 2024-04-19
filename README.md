@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pratchaya Saenphoi</h1>
 <h3 align="center">A passionate backend developer from Thailand</h3>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=ptitiwat2543" height="150" alt="stats graph"  />
+</div>
+
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratchayas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratchayas1" height="30" width="40" /></a>
