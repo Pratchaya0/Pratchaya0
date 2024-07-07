@@ -23,13 +23,20 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About me**
 ---
-<img  align="right"  alt="Coding"  width="200"  src="https://raw.githubusercontent.com/Pratchaya0/Pratchaya0/main/energy_cleansing_and_healing_spell.gif">
-
- - 👀 I’m interested in **AR/VR,AI**
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+       - 👀 I’m interested in **AR/VR,AI**
  
-- 🌱 I’m currently learning about **Cybersecurity,Blockchain**
+      - 🌱 I’m currently learning about **Cybersecurity,Blockchain**
 
-- 💬 About me **INFP, Anime, Bicycle, Peaceful place**  
+      - 💬 About me **INFP, Anime, Bicycle, Peaceful place**  
+    </td>
+    <td width="80%" align="center">
+      <img alt="Coding"  width="300"  src="https://raw.githubusercontent.com/Pratchaya0/Pratchaya0/main/energy_cleansing_and_healing_spell.gif">
+    </td>
+  </tr>
+</table>
 
 <!-- - 👷‍♂️ I’m currently working as `Application developer associate` at T.C.C. Technology Co., Ltd. -->
 <!-- - 🤓 Presently learning back-end development with various languages such as ♨️ Java spring boot, and learning software development design such as Clean architecture, React design patterns.
