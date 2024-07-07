@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   Greeting viewer! I'm Pratchaya, a junior <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> who possess knowledge of software design, development, && testing. I am seeking a software engineering role that encompasses both front-end and back-end development.
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About me**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About me**>
 ---
 <table align="center">
   <tr border="none">
