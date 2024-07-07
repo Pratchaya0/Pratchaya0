@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 <span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang logo" title="Go" height="25" /></span>
 <span><img  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"  alt="Dart logo"  title="Dart"  height="25" /></span>
-
+<span><img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  alt="CSharp logo"  title="CSharp"  height="25" /></span>
 
 
 ### 💾 Databases
@@ -103,8 +103,7 @@ Here are some ideas to get you started:
 ![Prisma](https://img.shields.io/badge/prisma-%23404d59.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 <!-- ### 🎨 Design
