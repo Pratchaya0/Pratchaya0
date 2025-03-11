@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <p style="text-align: justify;">
   Greeting viewer! I'm Pratchaya, a junior <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> who possess knowledge of software design, development, && testing. I am seeking a software engineering role that encompasses both front-end and back-end development.
 
-Taking this couse: https://www.udemy.com/course/microservices-golang-zero-hero/?couponCode=24T4MT90924A
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About me**>
